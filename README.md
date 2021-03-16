@@ -1,7 +1,7 @@
-### Hi there, I'm DarkStone! 👋
+### Hi there, I'm Kabo Basha! 👋
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=darkboy-js-ops-cyber" alt="sujal-ops-cyber" /> </p>
 
-![Discord](https://discord.c99.nl/widget/theme-1/674968680383119400.png)
+![Discord](https://discord.c99.nl/widget/theme-1/430431807280906242.png)
 
 <a href="https://discord.gg/DNhF5zESwV">
   <img align="left" alt="Discord Server" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
@@ -17,11 +17,11 @@
  
 <br />
 
-### Hey i'm Darkstone Gald to see you here! &nbsp;
+### Hey i'm Kabo Basha Gald to see you here! &nbsp;
 
 I am a passionate self-taught programmer from Saudi Arbia.
  - 🌱 I’m currently learning EJS
-- 📫 Add Me On Discord? DarkStone#0001
+- 📫 Add Me On Discord? yousefkabo#9528
 - 🥅 2021 Goals: Watch more por*
 
 **Languages and Tools:** &nbsp;
