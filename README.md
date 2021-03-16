@@ -5,7 +5,7 @@
 
 <a href="https://discord.gg/DNhF5zESwV">
   <img align="left" alt="Discord Server" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
-</a>
+</a> 
  <a href="https://github.com/DarkStone-py">
   <img align="left" alt="DarkStone Github's" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
